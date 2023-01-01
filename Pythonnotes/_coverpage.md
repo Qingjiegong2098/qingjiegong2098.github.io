@@ -1,6 +1,4 @@
-<!-- _coverpage.md --> 
-
-![logo](https://gitee.com/yibaiwan/image/raw/master/image/202201272041904.png)
+ ![logo](https://gitee.com/yibaiwan/image/raw/master/image/202201272041904.png)
 
  # 清洁工
 
