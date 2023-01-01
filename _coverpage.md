@@ -1,4 +1,4 @@
- ![logo](https://github.com/Qingjiegong2098/qingjiegong2098.github.io/blob/6dbb5dbd2c54f78d8dc8d24e5952f5f59cdea729/file/image/202201272041904.png)
+ ![logo](file/image/202201272041904.png)
 
  # 清洁工
 
@@ -8,5 +8,5 @@
 
 ### Python学习笔记
 
-[Python学习笔记](Pythonnotes/index.html) [3D模型](sense/index.html)
+[Python学习笔记](https://qingjiegong2098.github.io/Pythonnotes/index.html) [3D模型](https://qingjiegong2098.github.io/sense/index.html)
 
