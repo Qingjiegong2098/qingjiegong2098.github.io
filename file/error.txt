@@ -1,3 +1,5 @@
+设置代理：
+git config --global https.proxy
 
 取消全局代理：
 git config --global --unset http.proxy
