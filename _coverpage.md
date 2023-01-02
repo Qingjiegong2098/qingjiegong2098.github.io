@@ -8,5 +8,5 @@
 
 
 
-[Python学习笔记](https://qingjiegong2098.github.io\Pythonnotes\ ':target=_self') [3D模型](https://qingjiegong2098.github.io\sense\ ':target=_self')
+[Python学习笔记](https://qingjiegong2098.github.io/Pythonnotes/ ':target=_self') [3D模型](https://qingjiegong2098.github.io\sense\ ':target=_self')
 
