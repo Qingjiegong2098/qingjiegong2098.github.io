@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="zn">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>library</title>
+    <style>
+        body {
+            margin: 0;
+
+            background-image: linear-gradient(rgb(47, 144, 255), rgb(228, 193, 251));
+        }
+        .button {
+            position: fixed;
+            top: 0;
+            right: 0;
+            width: 80px;
+            height: 48px;
+            background-color: #050e38;
+            color: #05d4e3;
+            text-align: center;
+            line-height: 48px;
+            font-size: 16px;
+            text-decoration: none;
+        }
+        
+
+         /* 进度条css样式 */
+         #container {
+            position: absolute;
+            width: 400px;
+            height: 16px;
+            top: 50%;
+            left:50%;
+            margin-left: -200px;
+            margin-top: -8px;
+            border-radius: 8px;           
+            border: 1px solid #009999;          
+            overflow: hidden;
+        }
+        #per {
+            height: 100%;
+            width: 0px;
+            background: #00ffff;
+            color: #00ffff;
+            line-height: 15px;          
+        }
+        
+    </style>
+</head>
+
+<body>
+    <div id="WebGL-output"></div>
+
+    <div id="container">
+        <!-- 进度条 -->
+        <div id="per"> </div>
+    </div>
+    
+    <a href="../origin/index.html" class="button">origin</a>
+</body>
+
+
+<script type="importmap">
+	{
+		"imports": {
+			"three": "../js/three.module.js"
+		}
+	}
+</script>
+<script type="module"> import "./main.js"</script>
+
+</html>
